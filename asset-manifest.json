@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/freegames/static/css/main.f4ae91c9.css",
+    "main.js": "/freegames/static/js/main.40fbb77d.js",
+    "static/js/787.bdc2d5e5.chunk.js": "/freegames/static/js/787.bdc2d5e5.chunk.js",
+    "static/media/WallpaperDog-17044239.jpg": "/freegames/static/media/WallpaperDog-17044239.f0637e92903d1601964a.jpg",
+    "static/media/WallpaperDog-397027.jpg": "/freegames/static/media/WallpaperDog-397027.a1f13f9c05739f66dec5.jpg",
+    "static/media/nYvfUT.jpg": "/freegames/static/media/nYvfUT.d006518da56b2de4922d.jpg",
+    "index.html": "/freegames/index.html",
+    "main.f4ae91c9.css.map": "/freegames/static/css/main.f4ae91c9.css.map",
+    "main.40fbb77d.js.map": "/freegames/static/js/main.40fbb77d.js.map",
+    "787.bdc2d5e5.chunk.js.map": "/freegames/static/js/787.bdc2d5e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ae91c9.css",
+    "static/js/main.40fbb77d.js"
+  ]
+}
